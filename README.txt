@@ -6,11 +6,10 @@
 ================================================================
 
 CARRERA:
-  Ingeniería de Sistemas
+  Ingeniería de Innovación Empresarial
 
-INTEGRANTES:
-  - [Nombre Integrante 1]
-  - [Nombre Integrante 2]
+INTEGRANTE:
+Saul Josue Viza Choque
 
 DOMINIO ELEGIDO:
   Gestión de Clientes — Sistema que permite administrar un
@@ -32,14 +31,14 @@ ESTRUCTURA DEL PROYECTO:
   clientes2.csv     → Archivo de prueba para intercalación
 
 FUNCIONALIDADES:
-  1. Crear cliente         (CRUD - CREATE)
-  2. Listar clientes       (CRUD - READ)
-  3. Modificar cliente     (CRUD - UPDATE)
-  4. Eliminar cliente      (CRUD - DELETE)
-  5. Ordenar clientes      (Bubble Sort optimizado)
-  6. Búsqueda secuencial   (por ID)
-  7. Búsqueda binaria      (por ID, requiere ordenar primero)
-  8. Intercalar archivos   (merge de dos CSV ordenados)
+  1. Crear cliente         
+  2. Listar clientes       
+  3. Modificar cliente     
+  4. Eliminar cliente      
+  5. Ordenar clientes      
+  6. Búsqueda secuencial
+  7. Búsqueda binaria      
+  8. Intercalar archivos   
   9. Salir
 
 INSTRUCCIONES DE COMPILACIÓN:
