@@ -55,15 +55,18 @@ int main() {
             inicializarDatos(clientes);
 
         } else if (opcion == "9") {
+            generarReporteHTML(clientes);
+
+        } else if (opcion == "0") {
             cout << "\nSaliendo del sistema. Hasta luego!" << endl;
 
         } else {
             cout << "Opcion invalida. Intente nuevamente." << endl;
         }
 
-        if (opcion != "9") pausar();
+        if (opcion != "0") pausar();
 
-    } while (opcion != "9");
+    } while (opcion != "0");
 
     return 0;
 }
